@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+*.log
+*.tmp
+*.private.json
+test-downloads/
+_bmad/
+_bmad-output/
+.codex/

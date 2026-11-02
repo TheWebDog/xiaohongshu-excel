@@ -1,0 +1,10 @@
+{
+  "name": "Microsoft Excel FY26 product icon",
+  "sourcePage": "https://www.microsoft.com/zh-cn/microsoft-365/excel",
+  "assetURL": "https://www.microsoft.com/content/dam/microsoft/bade/images/icons/en-us/m365-app-icons-fy26/Excel-Icon-FY26.svg",
+  "retrievedAt": "2026-11-02T08:52:10.263Z",
+  "bytes": 4928,
+  "sha256": "ff01cdad545c6f1c0bff371c1f1758ad228174520c718c679bd454f6b4fcacf8",
+  "attribution": "Microsoft Excel product icon; Microsoft trademarks and artwork remain owned by Microsoft. Asset not covered by any license later chosen for our own code.",
+  "verification": "Asset URL observed as img alt=Excel in official Microsoft product page using OpenCLI; downloaded HTTP200 original SVG."
+}
