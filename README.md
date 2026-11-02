@@ -75,7 +75,7 @@
 node --check xhs-workbook.user.js
 ```
 
-main 分支保持可安装版本。修改功能或元数据时递增 `@version` 并更新 [CHANGELOG.md](CHANGELOG.md)。Greasy Fork 从 main 的原始脚本地址同步，GitHub 推送通过 Webhook 通知更新；同步配置完成后可在 Greasy Fork 管理页查看同步状态。
+main 分支保持可安装版本。修改功能或元数据时递增 `@version` 并更新 [CHANGELOG.md](CHANGELOG.md)。Greasy Fork 的代码从 main 的原始脚本地址同步，说明来自 docs/greasyfork.md。GitHub 推送通过 Webhook 通知更新，可在 Greasy Fork 管理页查看同步状态。
 
 提交问题请提供浏览器与管理器版本、复现步骤、预期／实际结果，截图中隐去个人信息。贡献方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。觉得好用欢迎 Star。
 

@@ -11,3 +11,5 @@
 - main 通过 Greasy Fork 分发；维护者合并可发布改动后，由同步流程更新安装版。
 
 您提交的原创代码贡献按本项目 MIT 许可证提供；第三方内容保持其原有授权。
+
+Greasy Fork 的附加说明由 docs/greasyfork.md 同步，README 和站内说明有对应变化时请一起更新。Webhook 地址属于管理配置，不放进仓库。

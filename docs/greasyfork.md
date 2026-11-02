@@ -40,3 +40,5 @@
 ## 开源和素材
 
 原创代码采用 MIT，完整源码、文档和协作位于 GitHub。Excel 图标及相关商标归微软所有，来源和独立权利说明见 [THIRD_PARTY_NOTICES](https://github.com/TheWebDog/xiaohongshu-excel/blob/main/THIRD_PARTY_NOTICES.md)。本项目与小红书、微软没有隶属或背书关系。
+
+版本和说明从 GitHub main 分支自动同步，安装入口保持本条目不变。
