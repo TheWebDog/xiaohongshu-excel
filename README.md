@@ -2,7 +2,12 @@
 
 **把小红书网页版变成 Excel / WPS 风格工作簿，直接浏览图文、视频和评论。**
 
-[![安装脚本](https://img.shields.io/badge/Greasy_Fork-%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC-217346?style=for-the-badge)](https://update.greasyfork.org/scripts/603375/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E6%91%B8%E9%B1%BC%E5%8A%A9%E6%89%8B%EF%BC%9AExcelWPS%E8%A1%A8%E6%A0%BC%E4%BC%AA%E8%A3%85%E3%80%81%E5%9B%BE%E7%89%87%E8%A7%86%E9%A2%91%E6%B5%8F%E8%A7%88%E4%B8%8E%E4%B8%8B%E8%BD%BD.user.js)
+### [点击跳转安装脚本](https://update.greasyfork.org/scripts/603375/xiaohongshu-excel.user.js)
+
+安装地址：<https://update.greasyfork.org/scripts/603375/xiaohongshu-excel.user.js>
+
+先安装 Tampermonkey，再点击上面的文字或链接；弹出 Tampermonkey 安装页面后，点击「安装」。完整步骤见下方「安装」。
+
 [![MIT](https://img.shields.io/badge/Code-MIT-217346)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/TheWebDog/xiaohongshu-excel?style=social)](https://github.com/TheWebDog/xiaohongshu-excel/stargazers)
 
@@ -23,11 +28,14 @@
 
 </details>
 
-## 安装
+## 安装（电脑浏览器）
 
-1. 在浏览器安装 [Tampermonkey](https://www.tampermonkey.net/)。
-2. 点击上方 **安装脚本**，在管理器弹出的页面确认安装。
-3. 打开或刷新 [小红书网页版](https://www.xiaohongshu.com/explore)。
+1. **安装 Tampermonkey（篡改猴）扩展**：打开 <https://www.tampermonkey.net/>，选择你的浏览器，按提示添加扩展。
+2. **[点击跳转安装脚本](https://update.greasyfork.org/scripts/603375/xiaohongshu-excel.user.js)**：也可以直接打开安装地址 <https://update.greasyfork.org/scripts/603375/xiaohongshu-excel.user.js>。
+3. **在弹出的 Tampermonkey 页面点击「安装」**，完成脚本安装。
+4. **打开或刷新小红书网页版**：<https://www.xiaohongshu.com/explore>，页面会切换成表格界面。
+
+觉得有用，欢迎点击本页右上角的 **⭐ Star** 支持这个项目。
 
 已安装的用户可在脚本管理器中检查更新。Greasy Fork 是推荐安装和更新渠道；本仓库用于维护源码、记录问题和协作。
 

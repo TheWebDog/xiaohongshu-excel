@@ -4,7 +4,11 @@
 
 **[GitHub 源码与 Star](https://github.com/TheWebDog/xiaohongshu-excel) · [问题反馈](https://github.com/TheWebDog/xiaohongshu-excel/issues) · [更新记录](https://github.com/TheWebDog/xiaohongshu-excel/blob/main/CHANGELOG.md)**
 
-安装请使用本页的「安装此脚本」按钮。已安装的用户可在脚本管理器中检查更新。
+安装前先在电脑浏览器添加 Tampermonkey（篡改猴）：<https://www.tampermonkey.net/>。
+
+然后点击本页的「安装此脚本」，在弹出的 Tampermonkey 页面点击「安装」，最后打开或刷新小红书网页版：<https://www.xiaohongshu.com/explore>。
+
+已安装的用户可在脚本管理器中检查更新。
 
 ![工作簿列表](https://raw.githubusercontent.com/TheWebDog/xiaohongshu-excel/main/docs/screenshots/workbook.jpg)
 
